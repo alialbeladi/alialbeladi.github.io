@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Ali AlBeladi"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Ali AlBeladi"
+description              : &description "Assistant Professor, Robotics & AI"
 url                      : https://alialbeladi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "alialbeladi/alialbeladi.github.io"
@@ -84,8 +84,7 @@ author:
   avatar           : "ali_sq.jpg"
   bio              : "Assistant Professor, Robotics & AI"
   location         : "Dhahran, KSA"
-  location         : "KFUPM"
-  employer         :
+  employer         : "KFUPM"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=En9cIhMAAAAJ&hl=en"
   email            : "albeladi@kfupm.edu.sa"
