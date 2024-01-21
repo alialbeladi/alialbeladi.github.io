@@ -7,7 +7,7 @@ venue: "KFUPM"
 date: 2024-01-01
 location: "Dhahran-KSA"
 ---
-
+This project aims to develop a modular AUV that can be used for various applications such as seafloor surveying, sea creature analysis, pipe inspection, and underwater manipulation tasks.
 
 Summary
 ========
