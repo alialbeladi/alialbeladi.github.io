@@ -17,17 +17,17 @@ Education
 
 Work experience
 ======
-* Assistant Professor (Aug. 2022 – present)
-  * Electrical Engineering Department, KFUPM
+* **Assistant Professor** (Aug. 2022 – present)
+  Electrical Engineering Department, KFUPM
 
-* Research Assistant (Aug 2016 – May 2022)
-  * Coordinated Science Laboratory, UIUC
+* **Research Assistant** (Aug 2016 – May 2022)
+  Coordinated Science Laboratory, UIUC
  
-* Research Scientist (Feb. 2018 – Aug. 2018)
-  * John Deere Technology & Innovation Center
+* **Research Scientist** (Feb. 2018 – Aug. 2018)
+  John Deere Technology & Innovation Center
  
-* Graduate Assistant (Sep. 2012 – May 2015)
-  * Electrical Engineering Department, KFUPM
+* **Graduate Assistant** (Sep. 2012 – May 2015)
+  Electrical Engineering Department, KFUPM
   
 Awards
 ======
