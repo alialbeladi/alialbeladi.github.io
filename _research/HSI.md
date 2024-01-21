@@ -8,7 +8,7 @@ date: 2023-12-01
 location: "Dhahran-KSA"
 ---
 
-Development of a low-cost hyperspectral imaging system that will be used for agriculture.
+This project aims to develop a low-cost hyperspectral imaging system that will be used for agriculture applications.
 
 Summary
 ========
