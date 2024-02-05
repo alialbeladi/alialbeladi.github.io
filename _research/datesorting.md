@@ -1,4 +1,4 @@
-g---
+---
 title: "Development of a Machine Vision System for Date-fruit Sorting"
 collection: research
 type: "Ongoing project"
