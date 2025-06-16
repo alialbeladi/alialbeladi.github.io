@@ -5,7 +5,6 @@ permalink: /guidelines/
 author_profile: true
 ---
 
-# Welcome
 Welcome to the lab! I'm excited to have you on board as part of our research team. 
 
 Our lab explores a wide range of Robotics and AI challenges, with a particular emphasis on systems that operate in complex and often harsh environments. Our current themes include underwater robotics, agriculture robotics, and intelligent sensing systems. Each project combines theoretical exploration with hands-on experimentation. While your specific project may vary, the unifying theme is this: we build systems that sense, think, and act in the real world. This guide is here to help you navigate that journey.
